@@ -30,6 +30,7 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img sec ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReG4QQeUEROAcyNzDOKPUoQlOX4Fm-n89Se5vj9zxhnCRNyRW9HGMLiEr7&s=10'/>
       </td>
     </tr>
     <tr>
