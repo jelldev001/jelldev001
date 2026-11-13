@@ -1,4 +1,4 @@
-<h1 align="center">
+ไ<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jelly+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
@@ -55,14 +55,6 @@
       <td>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🗣️ Spoken Languages</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/🇱🇦_Lao-Native-002868?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/🇹🇭_Thai-Good-A51931?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/🇬🇧_English-Basic-012169?style=for-the-badge" />
       </td>
     </tr>
   </tbody>
